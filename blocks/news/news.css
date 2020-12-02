@@ -1,0 +1,11 @@
+.news {
+  position: relative;
+  margin-bottom: 70px;
+  margin-left: 20px;
+}
+
+@media (max-width: 600px) {
+  .news {
+    margin-left: 0px;
+  }
+}

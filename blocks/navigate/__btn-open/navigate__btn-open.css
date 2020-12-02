@@ -1,0 +1,16 @@
+.navigate__btn-open {
+  margin-top: 20px;
+  min-width: 48px;
+  height: 32px;
+  background: url(../../../images/btn.svg);
+  border: none;
+  outline: none;
+  display: none;
+}
+
+@media (max-width: 1010px) {
+  .navigate__btn-open {
+    display: block;
+    margin-right: 38px;
+  }
+}

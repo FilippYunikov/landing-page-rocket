@@ -1,0 +1,9 @@
+.menu-bottom {
+  padding-left: 150px;
+}
+
+@media (max-width: 1050px) {
+  .menu-bottom {
+    padding-left: 0px;
+  }
+}

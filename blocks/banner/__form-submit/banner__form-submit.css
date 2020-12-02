@@ -1,0 +1,19 @@
+.banner__form-submit {
+  display: inline;
+  padding: 16px 42px;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  text-align: center;
+  outline: none;
+  border: none;
+  color: #ffffff;
+  background: #d51522;
+  box-shadow: 0px 2px 8px rgba(65, 65, 65, 0.25);
+}
+
+@media (max-width: 1050px) {
+  .banner__form-submit {
+    padding: 16px 58px;
+  }
+}

@@ -1,0 +1,9 @@
+.menu-bottom__link,
+.menu-bottom__link:hover,
+.menu-bottom__link:active {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  color: #ffffff;
+  text-decoration: none;
+}

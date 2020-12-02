@@ -1,0 +1,16 @@
+.menu__btn-close {
+  background: url(../../../images/btn2.svg);
+  background-repeat: no-repeat;
+  border: none;
+  outline: none;
+  width: 22px;
+  height: 22px;
+  margin: 0px 18px 43px 18px;
+  display: none;
+}
+
+@media (max-width: 1010px) {
+  .menu__btn-close {
+    display: block;
+  }
+}

@@ -1,0 +1,18 @@
+.menu__link,
+.menu__link:hover,
+.menu__link:active {
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  color: #2b2b2b;
+}
+
+@media (max-width: 1010px) {
+  .menu__link,
+  .menu__link:hover,
+  .menu__link:active {
+    font-size: 18px;
+    line-height: 21px;
+  }
+}

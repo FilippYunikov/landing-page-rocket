@@ -1,0 +1,9 @@
+.banner {
+  background: url(../../images/back1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 507px;
+  display: flex;
+  align-items: center;
+}

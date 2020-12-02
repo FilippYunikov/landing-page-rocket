@@ -1,0 +1,14 @@
+.banner__title {
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 46px;
+  margin-bottom: 13px;
+  color: #ffffff;
+}
+
+@media (max-width: 400px) {
+  .banner__title {
+    font-size: 30px;
+    line-height: 35px;
+  }
+}

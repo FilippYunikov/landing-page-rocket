@@ -1,0 +1,9 @@
+.glide__bullet {
+  background: #cacaca;
+}
+
+.glide__bullet:hover,
+.glide__bullet:focus {
+  background: #d51522;
+  border: none;
+}

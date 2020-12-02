@@ -1,0 +1,17 @@
+.news__btn {
+  padding: 14px 40px;
+  text-align: center;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  color: #d51522;
+  border: 1px solid #d51522;
+  outline: none;
+  text-decoration: none;
+}
+
+.news__btn:hover,
+.news__btn:active {
+  text-decoration: none;
+  color: #d51522;
+}
